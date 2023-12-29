@@ -1,5 +1,5 @@
 # FoundIt
-Capstone Project Using React Native for developing Lost and Found Application. 
+Capstone Project Using React Native for Lost and Found Application. 
 The Contributors are Me, (Rahul) https://github.com/Rahul5798, (Shivam) https://github.com/shivam1709
 
 Below is the Working Code and demo video link. Please check out
